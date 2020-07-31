@@ -1,0 +1,1 @@
+This is Shocker’s first git project!
